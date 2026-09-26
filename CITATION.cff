@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this research, multi-physics simulation engine, or GBN dielectric superlattice architecture in your work, please cite it as below."
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+    orcid: "https://orcid.org/0009-0004-6913-096X"
+title: "GAA CNTFET + Gradient Bandgap Nanomultilayer (GBN) EMP Shock Mitigation"
+version: "1.0.0"
+doi: "10.5281/zenodo.1234567" # Will update automatically after Zenodo release
+date-released: 2026-09-26
+url: "https://github.com/Abhishek1033ubuntu/gaa-cntfet-gbn-dielectric-breakdown"
+repository-code: "https://github.com/Abhishek1033ubuntu/gaa-cntfet-gbn-dielectric-breakdown"
+keywords:
+  - "Carbon Nanotubes"
+  - "CNTFET"
+  - "Dielectric Breakdown"
+  - "Electromagnetic Pulse"
+  - "High-Kappa Gate Oxide"
+  - "Multi-Physics Simulation"
+  - "Terahertz Injection Core"
+abstract: "Multi-physics simulation and engineering validation for sub-10nm Gate-All-Around (GAA) CNTFETs using a Gradient Bandgap Nanomultilayer (GBN) dielectric to eliminate EMP thermal shock and filamental breakdown under sub-nanosecond 18 MV/cm transients."
