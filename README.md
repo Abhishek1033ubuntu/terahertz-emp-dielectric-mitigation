@@ -104,6 +104,15 @@ This directory map outlines the structural organization of the repository, provi
 ```
 ---
 
+## 📄 File Navigation Guide
+
+* **[`/README.md`](README.md):** Core landing page summarizing performance matrices, parent platform links (`solid-state-terahertz-injection-core`), and implementation summaries.
+* **[`/LICENSE`](https://www.google.com/search?q=LICENSE&utm_source=gemini):** Official MIT License agreement.
+* **[`/docs/GBN_Superlattice_Physics.md`](https://www.google.com/search?q=docs/GBN_Superlattice_Physics.md&utm_source=gemini):** Mathematical derivations for carrier thermalization, $EOT$ scaling, and defect percolation models.
+* **[`/simulation/emp_breakdown_solver.py`](https://www.google.com/search?q=simulation/emp_breakdown_solver.py&utm_source=gemini):** Standalone Python 3 script simulating $100,000$ EMP transients, carrier kinetic energy scaling, and breakdown probabilities.
+
+---
+
 ## 📜 License & Citation
 
 This project is licensed under the **MIT License** - see the [LICENSE](https://www.google.com/search?q=LICENSE&utm_source=gemini) file for full details.
