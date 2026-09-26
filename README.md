@@ -86,10 +86,11 @@ python simulation/emp_breakdown_solver.py
 
 This directory map outlines the structural organization of the repository, providing quick access to research documentation, physical formulas, executable simulation scripts, and output artifacts.
 
-```text
+```
 .
-├── README.md                           <-- Master Overview, Architecture & Verification Table
+├── README.md                           <-- Master Overview, Badges & Verification Table
 ├── LICENSE                             <-- MIT Open-Source License Specification
+├── CITATION.cff                        <-- Zenodo Academic Citation File
 ├── SITEMAP.md                          <-- Repository Directory Map & Navigation Guide
 │
 ├── docs/                               <-- Theoretical Foundations & Physics Formulations
@@ -99,8 +100,8 @@ This directory map outlines the structural organization of the repository, provi
 │   └── emp_breakdown_solver.py         <-- Complete Ballistic & Superlattice Solver Code
 │
 └── assets/                             <-- Architectural Schematics & Generated Output Plots
-    ├── gaa_cntfet_stack_diagram.png    <-- ASCII / Vector Dielectric Stack Geometry
-    └── emp_breakdown_verification.png  <-- Dual-Panel Trap Accumulation & Weibull Curves
+    ├── gaa_cntfet_stack_diagram.png    <-- Visual Dielectric Stack Layer Diagram
+    └── gaa_cntfet_stack_diagram.py     <-- Standalone Matplotlib Script to Render PNG
 ```
 ---
 
