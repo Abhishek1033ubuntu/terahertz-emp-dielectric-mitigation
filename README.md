@@ -73,14 +73,35 @@ The multi-physics verification solver is located in `/simulation/emp_breakdown_s
 1. Open **Google Colab** or any local Python 3 environment.
 2. Clone or copy `/simulation/emp_breakdown_solver.py`.
 3. Run the script:
-```bash
+```
 python simulation/emp_breakdown_solver.py
 
 ```
 
-
 4. The script outputs real-time terminal verification metrics alongside a dual-panel Weibull breakdown and trap density plot.
 
+---
+
+# Repository Structure
+
+This directory map outlines the structural organization of the repository, providing quick access to research documentation, physical formulas, executable simulation scripts, and output artifacts.
+
+```text
+.
+├── README.md                           <-- Master Overview, Architecture & Verification Table
+├── LICENSE                             <-- MIT Open-Source License Specification
+├── SITEMAP.md                          <-- Repository Directory Map & Navigation Guide
+│
+├── docs/                               <-- Theoretical Foundations & Physics Formulations
+│   └── GBN_Superlattice_Physics.md    <-- Band Offset Calculations & Weibull TDDB Models
+│
+├── simulation/                         <-- Executable Multi-Physics Engines (Python/Colab)
+│   └── emp_breakdown_solver.py         <-- Complete Ballistic & Superlattice Solver Code
+│
+└── assets/                             <-- Architectural Schematics & Generated Output Plots
+    ├── gaa_cntfet_stack_diagram.png    <-- ASCII / Vector Dielectric Stack Geometry
+    └── emp_breakdown_verification.png  <-- Dual-Panel Trap Accumulation & Weibull Curves
+```
 ---
 
 ## 📜 License & Citation
