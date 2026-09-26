@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-green.svg)](https://www.python.org/)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-Ready-orange.svg)](https://colab.research.google.com/)
 [![Gemini Verified](https://img.shields.io/badge/Co--Engineered%20With-Google%20Gemini-8E44AD?style=flat&logo=google-gemini&logoColor=white)](https://gemini.google.com/) 
-
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22981024-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.22981024)
 
 ---
 
