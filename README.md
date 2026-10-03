@@ -50,7 +50,7 @@ By integrating the low-voltage Gate-All-Around (GAA) Carbon Nanotube FET (CNTFET
 
 
 3. **Piezoelectric Shock Absorption:**
-* Ferroelectric $\text{Hf}_{0.5}\text{Zr}_{0.5}\text{O}_2$ domains undergo rapid polarization switching, absorbing transient thermo-mechanical shock waves ($\partial T / \partial t > 10^{10}\text{ K/s}$) to prevent interface micro-cracking.
+* Ferroelectric Hf<sub>0.5</sub>Zr<sub>0.5</sub>O<sub>2</sub> domains undergo rapid polarization switching, absorbing transient thermo-mechanical shock waves (∂T/∂t > 10<sup>10</sup> K/s) to prevent interface micro-cracking.
 
 
 
